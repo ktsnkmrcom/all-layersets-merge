@@ -4,14 +4,14 @@
 - 特定のグループを除外したりはできないので注意
 - ファイルの保存はしません
 - グループ化されていないレイヤーは無視されます（現状維持）
-- **最低ひとつはレイヤーまたはグループを選択（アクティブに）して作動させてください One layer must be active.
+- __最低ひとつはレイヤーまたはグループを選択（アクティブに）して作動させてください One layer must be active.__
 
-*大量のグループをそれぞれのレイヤーに結合したい時に便利です
+*大量のグループをそれぞれのレイヤーに結合したい時に便利です*
 
-__Before  
+__Before__  
 <img width="540" alt="before" src="https://user-images.githubusercontent.com/77219005/174712164-79bf4afe-2fbf-4d22-a7b0-ed974df136aa.png">
 
-__After  
+__After__  
 <img width="540" alt="after" src="https://user-images.githubusercontent.com/77219005/174712186-98a26797-4e2d-478c-85b3-02b74d488488.png">
 
 Type: Photoshop Script  
@@ -25,7 +25,7 @@ Script for Adobe Photoshop.
 
 File > Script > reference (Other Script)
 
-One layer must be active.
+__One layer must be active.__
 
 
 ## License
