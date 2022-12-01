@@ -4,9 +4,9 @@
 - 特定のグループを除外したりはできないので注意
 - ファイルの保存はしません
 - グループ化されていないレイヤーは無視されます（現状維持）
-- __最低ひとつはレイヤーまたはグループを選択（アクティブに）して作動させてください。 One layer must be active.__
+- ~~最低ひとつはレイヤーまたはグループを選択（アクティブに）して作動させてください~~（改良しました）
 
-*大量のグループをそれぞれのレイヤーに結合したい時に便利です。*
+*大量のグループをそれぞれのレイヤーに結合したい時に便利です*
 
 __Before__  
 <img width="540" alt="before" src="https://user-images.githubusercontent.com/77219005/174712164-79bf4afe-2fbf-4d22-a7b0-ed974df136aa.png">
@@ -14,18 +14,22 @@ __Before__
 __After__  
 <img width="540" alt="after" src="https://user-images.githubusercontent.com/77219005/174712186-98a26797-4e2d-478c-85b3-02b74d488488.png">
 
+---
+
+動作確認：Photoshop 2023 (macOS, Windows10)
+
+---
+
 Type: Photoshop Script  
 Name: all layersets merge  
 File Name: all-layersets-merge.jsx  
-Version: 0.0.9
+Version: 0.1.0
 
 ## How to use
 
-Script for Adobe Photoshop
+Script for Adobe Photoshop.
 
 File > Script > reference (Other Script)
-
-__One layer must be active.__
 
 
 ## License
