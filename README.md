@@ -25,6 +25,15 @@ Name: all layersets merge
 File Name: all-layersets-merge.jsx  
 Version: 0.1.0
 
+---
+
+## UPDATE
+
+- 2022-12-03  
+0.0.9 --> 0.1.0  レイヤーがアクティブでない場合も作動するように改良
+
+---
+
 ## How to use
 
 Script for Adobe Photoshop.
