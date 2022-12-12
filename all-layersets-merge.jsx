@@ -11,8 +11,9 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 You should have received a copy of the GNU General Public Licensealong with this program. If not, see <https://www.gnu.org/licenses/>.
 */
 
-// すべてのグループをグループごとにレイヤーに結合するコマンド
-// 特定のグループを除外したりはできないので注意
+// アートボードをご利用の場合はグループごとではなく、アートボードごとに結合されます
+// すべてのグループをグループごとに結合するスクリプト（コマンドEを連続する）
+// 特定のグループを除外したりはできません
 
 (function () {
   if (documents.length > 0) {
