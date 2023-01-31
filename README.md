@@ -17,7 +17,8 @@ https://helpx.adobe.com/jp/photoshop/using/photoshop-marketplace-plugins.html
 
 *大量のグループをそれぞれに結合したい時に便利です*
 
-**アートボードをご利用の場合はグループごとではなく、アートボードごとに結合されます**
+~~**アートボードをご利用の場合はグループごとではなく、アートボードごとに結合されます**~~  
+アートボードでは異なったドキュメントサイズを扱われる場合が多いかと思いますが、その場合、意図した結果となりませんので、**グループに限ってのご利用**をお願いします。
 
 __Before__  
 <img width="540" alt="before" src="https://user-images.githubusercontent.com/77219005/174712164-79bf4afe-2fbf-4d22-a7b0-ed974df136aa.png">
