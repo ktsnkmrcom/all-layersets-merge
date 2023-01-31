@@ -1,3 +1,13 @@
+## このスクリプトの改良版をPluginとしてAdobe公式のマーケットプレイスで公開しました。
+
+
+**Merge More MM**  
+photoshopプラグインでmergeで検索していただきますとすぐに見つかるかと思います。  
+多くのグループフォルダを個別に結合される場合にお試しください。  
+
+Creative Cloud デスクトップアプリが必要です。  
+https://helpx.adobe.com/jp/photoshop/using/photoshop-marketplace-plugins.html
+
 # Photoshopスクリプト all layersets merge
 
 - すべてのグループをグループごとに結合するスクリプト（コマンドEを連続する）
